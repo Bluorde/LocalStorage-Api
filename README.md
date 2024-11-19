@@ -66,9 +66,9 @@ window.addEventListener('DOMContentLoaded', restoreFormState);
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/js30-local-storage.git
+ https://github.com/Bluorde/LocalStorage-Api.git
    ```
-2. Open the `index.html` file in your browser.
+2. Open the `index_START.html` file in your browser.
 
 3. Fill out the form fields. Your input will save to local storage upon click of the +Add Item button.
 
