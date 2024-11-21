@@ -1,5 +1,5 @@
-# LocalStorage-Api
-# JavaScript 30: Save Data to Local Storage & Persist Form States
+# LocalStorage-Api...
+# JavaScript 30: Save Data to Local Storage & Persist Form States...
 
 This project is part of the [JavaScript 30](https://javascript30.com/) challenge by Wes Bos. It demonstrates how to save data to the browser's local storage and persist form states across sessions using vanilla JavaScript.
 
